@@ -29,9 +29,3 @@ My name is Gabriel and i'm an 24 year old programmer who loves Linux, AI, Backen
 - Docker (A tool for creating containers, which makes the deployment easier eliminating dependecies)
 - Terraform (Tool for automate the deploymet of cloud infraestructure)
 - MongoDB and PostgreSQL
-
-# My Projects
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gabrielfonte&repo=DL_Face_Recognition)](https://github.com/gabrielfonte/DL_Face_Recognition)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gabrielfonte&repo=EFI-HACKINTOSH-B660M-I512600K-RX6750XT)](https://github.com/gabrielfonte/EFI-HACKINTOSH-B660M-I512600K-RX6750XT)
